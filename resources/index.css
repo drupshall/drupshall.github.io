@@ -12,6 +12,10 @@ body{
   height:100%;
 }
 
+main{
+  height: 500px;
+}
+
 #banner-heading{
   background-image: url("../resources/img/snowy-mountains.jpg");
   background-repeat: no-repeat;
